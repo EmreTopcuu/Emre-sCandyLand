@@ -7,58 +7,13 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: ChocaltePillar
-    second: {fileID: 2100000, guid: a93872d2a1bae9048835ac36fdb4c6fd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M&M_Green
-    second: {fileID: 2100000, guid: b10efd8ece9953c4cb6ff7d23e2a9614, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M&M_Red
-    second: {fileID: 2100000, guid: 508a162a03246994fb7bf2d18a15d34f, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: M&M_Yellow.001
-    second: {fileID: 2100000, guid: f130135236a1e4f48a9ab48b6616cb31, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: PillarOrnaments
-    second: {fileID: 2100000, guid: c7bd3af07f418b14dbd13437cbb21763, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Walls
-    second: {fileID: 2100000, guid: eedbcd4b7f100354398ef2d5c9f2085c, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Whipped_Cream
-    second: {fileID: 2100000, guid: 6b0dd82626a72de40b27ad7eeb78eee2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: WindowsLight
+      name: Emiision
     second: {fileID: 2100000, guid: d4bf71f9ad8ad2540b98f0210fa11c45, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: candyred
-    second: {fileID: 2100000, guid: c5b9739fd8592c3438ee8d2e067aba62, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: cherry
-    second: {fileID: 2100000, guid: 39bc46906ac8bcf4aa59fc40ef11f377, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: "\u0130cing"
-    second: {fileID: 2100000, guid: 1c51580a1ece9e245ab447a001b44016, type: 2}
+      name: a
+    second: {fileID: 2100000, guid: 129dfbd5f0e3d8841aa03775ab456dab, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

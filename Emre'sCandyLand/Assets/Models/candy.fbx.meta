@@ -1,9 +1,39 @@
 fileFormatVersion: 2
-guid: fb952ec8412d3b7489da9635dce60670
+guid: f7a1fe95b4e9ff24eb638189f347fed9
 ModelImporter:
   serializedVersion: 21202
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PillarOrnaments
+    second: {fileID: 2100000, guid: c7bd3af07f418b14dbd13437cbb21763, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Whipped_Cream
+    second: {fileID: 2100000, guid: 6b0dd82626a72de40b27ad7eeb78eee2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WindowsLight
+    second: {fileID: 2100000, guid: d4bf71f9ad8ad2540b98f0210fa11c45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: candyred
+    second: {fileID: 2100000, guid: 5fab804aa7e127d499bc70b23c48d8ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherry
+    second: {fileID: 2100000, guid: 39bc46906ac8bcf4aa59fc40ef11f377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cherryStand
+    second: {fileID: 2100000, guid: b0553a009a9f41e46b8a4ee66dbcc2e8, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
